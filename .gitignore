@@ -1,0 +1,18 @@
+# Obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/plugins/*/data.json
+.trash/
+.DS_Store
+Thumbs.db
+
+# Node modules (if any plugins use them)
+node_modules/
+
+# Python virtualenv (if any scripts use it)
+.venv/
+venv/
+
+# Cache
+__pycache__/
+*.pyc
